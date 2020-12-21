@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTECTestApp</string>
+    <string name="offline_mode">Offline</string>
+    <string name="error_feed">Error loading feed.</string>
+    <string name="error_post">Error loading post.</string>
+    <string name="error_no_data">None posts data available.\nPlease check your internet connection.</string>
+    <string name="author">Author</string>
+    <string name="delete">Delete</string>
+</resources>
